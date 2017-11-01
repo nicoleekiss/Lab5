@@ -1,2 +1,1 @@
-[![Build
-Status](https://travis-ci.org/nicoleekiss/Lab5)
+(https://travis-ci.org/nicoleekiss/Lab5)
