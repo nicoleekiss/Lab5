@@ -1,1 +1,2 @@
-(https://travis-ci.org/nicoleekiss/Lab5)
+[![Build
+Status](https://travis-ci.org/nicoleekiss/Lab5.svg?branch=master)](https://travis-ci.org/nicoleekiss/Lab5)(https://travis-ci.org/nicoleekiss/Lab5)
