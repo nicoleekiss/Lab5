@@ -1,2 +1,2 @@
-# Lab5
-for cse110 lab5
+[![Build
+Status](https://travis-ci.org/nicoleekiss/Lab5.svg?branch=master)](https://travis-ci.org/nicoleekiss/Lab5)
